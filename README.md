@@ -1,4 +1,4 @@
-### Hi!
+### Hi! 👋
 
 I'm a cosmologist and computational astrophysicist currently at the [University of Zurich](https://www.astro.uzh.ch/en/). 
 
